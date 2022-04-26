@@ -1,0 +1,9 @@
+body{
+  background-color: #DCD6F7;
+}
+button{
+  position: relative;
+right: 33px;
+height: 22px;
+top: 1px;
+}
